@@ -1,4 +1,4 @@
 # FB_Stuff_Plus
-This Code Generates An Expected Whiff Value Based On Trackman Pitch Metrics From College And Summer Baseball Database.
+This code generates an expected Whiff value based on Trackman pitch metrics from college baseball databases.
 
-xWHIFF Lays The GroundWork For STUFF+, A Measure Of How Much Better Than Average A Given Pitch Is. 
+xWHIFF lays the groundWork for STUFF+, a measure of how much better than average a given pitch is. 
